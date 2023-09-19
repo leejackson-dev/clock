@@ -5,7 +5,7 @@ import { TimeStateInterface } from '../../redux/time';
 
 // Styled component for the Tooltip
 const Tooltip = styled.div`
-  width: 100px;
+  width: 125px;
   height: 20px;
   background-color: #2dffc4;
   position: absolute;
