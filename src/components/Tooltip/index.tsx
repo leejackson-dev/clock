@@ -8,6 +8,7 @@ const Tooltip = styled.div`
   width: 125px;
   height: 20px;
   background-color: #2dffc4;
+  color: #15437c;
   position: absolute;
   pointer-events: none;
   padding: 10px;
